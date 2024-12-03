@@ -1,4 +1,4 @@
-# 🎮 Wordle Demake
+# 🎮 Wordle Demake (by Lalith Suresh + Ritika Rajamani)
 
 ## Note
 
