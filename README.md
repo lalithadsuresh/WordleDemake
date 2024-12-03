@@ -2,7 +2,7 @@
 
 ## Note
 
-If you are playing on a computer (non-NES device), please press SPACE instead of A to begin or guess word!
+If the screen is zoomed in, please decrease the size of the webpage. Additionally, if you are playing on a computer (non-NES device), please press SPACE instead of A to begin or guess word!
 
 ## Play the game
 
