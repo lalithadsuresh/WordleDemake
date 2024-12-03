@@ -2,7 +2,7 @@
 
 ## Note
 
-If you are having trouble starting the game, press SPACE to start if on a computer!
+If you are playing on a computer (non-NES device), please press SPACE instead of A to begin or guess word!
 
 ## Play the game
 
