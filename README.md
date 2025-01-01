@@ -1,4 +1,4 @@
-# 🎮 Wordle Demake (by Lalith Suresh + Ritika Rajamani)
+# 🎮 Wordle Demake (CS091 Project by Lalith Suresh + Ritika Rajamani)
 
 ## Note
 
